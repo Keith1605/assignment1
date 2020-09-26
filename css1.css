@@ -8,7 +8,8 @@ font-family: 'Merriweather', serif;
 
 
 .div1{
-	background: #e4f9f5;
+	background-color: #e4f9f5;
+	margin: 0;
 }
 
 h1{
@@ -146,6 +147,10 @@ hr{
 	display: inline-block;
 	padding-right: 1%;
 	padding-left: 1%;
+}
+
+.socmed:hover{
+	color: white;
 }
 
 a:active{
